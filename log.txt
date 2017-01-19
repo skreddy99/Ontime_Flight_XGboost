@@ -1,0 +1,33 @@
+[23:24:58] 356821x605 matrix with 6422778 entries loaded from Ontime_flight_arrivalModified.svmlight.train
+[23:24:58] 89006x605 matrix with 1602108 entries loaded from Ontime_flight_arrivalModified.svmlight.test
+[23:24:58] boosting round 0, 0 sec elapsed
+[23:24:58] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 8 extra nodes, 0 pruned nodes, max_depth=3
+[23:24:58] [0]	test-auc:0.994314	test-logloss:0.169504	train-auc:0.994191	train-logloss:0.170364
+[23:24:58] boosting round 1, 0.663829 sec elapsed
+[23:24:59] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 8 extra nodes, 0 pruned nodes, max_depth=3
+[23:24:59] [1]	test-auc:0.999564	test-logloss:0.049606	train-auc:0.999508	train-logloss:0.049772
+[23:24:59] boosting round 2, 0.999893 sec elapsed
+[23:24:59] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 8 extra nodes, 0 pruned nodes, max_depth=3
+[23:24:59] [2]	test-auc:0.999910	test-logloss:0.022632	train-auc:0.999887	train-logloss:0.022854
+[23:24:59] boosting round 3, 1.35196 sec elapsed
+[23:24:59] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 6 extra nodes, 0 pruned nodes, max_depth=3
+[23:24:59] [3]	test-auc:1.000000	test-logloss:0.008126	train-auc:1.000000	train-logloss:0.008248
+[23:24:59] boosting round 4, 1.66906 sec elapsed
+[23:25:00] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 6 extra nodes, 0 pruned nodes, max_depth=3
+[23:25:00] [4]	test-auc:1.000000	test-logloss:0.002975	train-auc:1.000000	train-logloss:0.003038
+[23:25:00] boosting round 5, 2.0135 sec elapsed
+[23:25:00] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 6 extra nodes, 0 pruned nodes, max_depth=3
+[23:25:00] [5]	test-auc:1.000000	test-logloss:0.001072	train-auc:1.000000	train-logloss:0.001097
+[23:25:00] boosting round 6, 2.33755 sec elapsed
+[23:25:00] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 6 extra nodes, 0 pruned nodes, max_depth=3
+[23:25:00] [6]	test-auc:1.000000	test-logloss:0.000388	train-auc:1.000000	train-logloss:0.000397
+[23:25:00] boosting round 7, 2.66762 sec elapsed
+[23:25:01] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 6 extra nodes, 0 pruned nodes, max_depth=3
+[23:25:01] [7]	test-auc:1.000000	test-logloss:0.000145	train-auc:1.000000	train-logloss:0.000148
+[23:25:01] boosting round 8, 3.00346 sec elapsed
+[23:25:01] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 6 extra nodes, 0 pruned nodes, max_depth=3
+[23:25:01] [8]	test-auc:1.000000	test-logloss:0.000057	train-auc:1.000000	train-logloss:0.000058
+[23:25:01] boosting round 9, 3.33189 sec elapsed
+[23:25:01] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 6 extra nodes, 0 pruned nodes, max_depth=3
+[23:25:01] [9]	test-auc:1.000000	test-logloss:0.000025	train-auc:1.000000	train-logloss:0.000025
+[23:25:01] update end, 3.65497 sec in all
